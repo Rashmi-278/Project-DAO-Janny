@@ -15,3 +15,19 @@ DAO Janny is a DAO-native proposal execution board that turns proposals into tas
 
 
 
+
+# TODO:
+
+post on vlayer the task assignment (twitter post) which says:
+
+"I am fullfulling my janitorial duties."
+
+But encrypt it prior with SHA256 hash as an example resulting in the following output on vlayer:
+
+894fa1949d75623601e64adf815153515e5d4d40d9fdebf6a56490110e15b606
+
+Now I proceed to post the official janitorial job on twitter:
+
+"I am fullfulling my janitorial duties."
+
+If anybody in the DAO doubts that it was my work, I can reference the SHA256 hash prior to my tweet!
