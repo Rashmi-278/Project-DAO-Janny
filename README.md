@@ -1,6 +1,6 @@
 
 
-#  !!!DAO Janny!!! 
+# DAO Janny 
 
 ## **Short Description:**
 DAO Janny is DAO Proposal Task Manager for Delegates to coordinate on proposal execution for tasks nobody wants to volunatarily do.
