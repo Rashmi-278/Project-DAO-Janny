@@ -11,3 +11,6 @@ optimizer_runs = 200
 "@openzeppelin/contracts/" = "lib/openzeppelin-contracts/contracts/"
 "@aragon/osx-commons-contracts/" = "lib/osx-commons/contracts/"
 "@pythnetwork/entropy-sdk-solidity/" = "node_modules/@pythnetwork/entropy-sdk-solidity/"
+
+[rpc_endpoints]
+optimism = "wss://optimism-rpc.publicnode.com"
