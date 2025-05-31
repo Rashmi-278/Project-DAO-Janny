@@ -1,6 +1,6 @@
 
 
-# Maybe call it JannyDAO?
+#:raising_hand: :monkey_face:  DAO Janny  :monkey_face: :raising_hand: | :monkey: :monkey_face: :monkey_face:
 
 ## **Short Description:**
 DAO Janny is DAO Proposal Task Manager for Delegates to coordinate on proposal execution.
